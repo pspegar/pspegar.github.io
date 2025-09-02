@@ -23,14 +23,7 @@ tiles-count: 6
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: ""
-  GitLab: ""
-  Google-Plus: ""
-  Instagram: ""
   LinkedIn: "www.linkedin.com/in/patrick-spegar"
-  Twitter: ""
-  Facebook: ""
-  Slack: ""
 
 # build settings
 markdown: kramdown
